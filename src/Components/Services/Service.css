@@ -1,0 +1,12 @@
+.services {
+    background: #F1F6F4;
+}
+.service-head{
+    padding: 25px 0;
+}
+.service-item{
+    padding: 25px;
+}
+.services img{
+    height: 105px;
+}

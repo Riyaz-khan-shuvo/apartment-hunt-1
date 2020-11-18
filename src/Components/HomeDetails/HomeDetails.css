@@ -1,0 +1,37 @@
+.details {
+    padding: 45px 0;
+}
+.all-home-detail{
+    margin-left: 10px;
+}
+
+.details img {
+    width: 100%;
+}
+
+.small-photo img {
+    width: 100%;
+}
+
+.price-detail p {
+    
+}
+
+.form-area {
+    background: #F4F4F4;
+    height: 375px;
+    width: auto;
+    padding: 25px;
+    text-align: center;
+    margin-top: 45px;
+    border-radius: 9px;
+}
+
+.form-area input[name] {
+    width: 90%;
+    margin: 7px 0;
+}
+
+.form-area textarea {
+    width: 90%;
+}

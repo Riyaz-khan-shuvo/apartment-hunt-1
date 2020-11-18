@@ -1,0 +1,13 @@
+.footer-area{
+    background: #275A53;
+    color: #fff;
+    padding: 45px 0;
+    text-align: justify;
+}
+.footer-area a{
+    color: #ffff;
+}
+.contact i{
+    padding: 0 9px;
+    font-size: 29px;
+}

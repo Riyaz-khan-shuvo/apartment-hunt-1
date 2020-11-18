@@ -1,0 +1,54 @@
+.login-area{
+    
+    max-width: 455px;
+    border: 1px solid #ddd;
+    margin: auto;
+    padding: 25px;
+    margin-top: 45px;
+}
+.input-area input[name ="email"] , 
+.input-area input[name ="pass"] 
+ {
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    padding: 4px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #aaa;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    width: 100%;
+}
+.input-area input[name="remember"]{
+    text-align: left;
+}
+.login-btn{
+    border: none;
+    width: 100%;
+    padding: 7px 0;
+    background: #275A53;
+    color: #fff;
+    margin-top: 15px;
+}
+.or-area{
+    max-width: 455px;
+    margin: auto;
+    font-size: 25px;
+    margin-bottom: 25px;
+    
+}
+.or-area img{
+    height: 35px;
+    width: auto;
+}
+.social-login{
+    margin-top: 25px;
+    border: 1px solid #ddd;
+    border-radius: 35px;
+    padding: 15px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
